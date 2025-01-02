@@ -1,2 +1,2 @@
 # Learning
-Mainly markdown of written fixed points during my learning activities
+Mainly notes taken during my learning activities, to help me in memorizing and to be able to review them later.
