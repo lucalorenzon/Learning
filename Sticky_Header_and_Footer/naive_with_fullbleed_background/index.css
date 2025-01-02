@@ -1,0 +1,40 @@
+body {
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(img_bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+main {
+    padding: 1em;
+    color: white;
+}
+
+.header-sticky {
+    position: sticky;
+    top: 0;
+}
+
+.header-format {
+    background: black;
+    opacity: 0.5;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    height: 60px;
+}
+
+.footer-sticky {
+    position: sticky;
+    bottom: 0;
+}
+
+.footer-sticky {
+    background: black;
+    opacity: 0.5;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    height: 60px;
+}

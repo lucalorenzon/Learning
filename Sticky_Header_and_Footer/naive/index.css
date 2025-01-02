@@ -1,0 +1,32 @@
+body {
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-sticky {
+    position: sticky;
+    top: 0;
+}
+
+.header-format {
+    background: black;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    height: 60px;
+    line-height: 2em;
+}
+
+.footer-sticky {
+    position: sticky;
+    bottom: 0;
+}
+
+.footer-sticky {
+    background: black;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    height: 60px;
+    line-height: 2em;
+}
